@@ -1,0 +1,27 @@
+baseURL = "https://wiki.notmet.net/"
+languageCode = "en-us"
+title = "WikiFinity"
+description = "A place where I can dump some knowledge when needed."
+theme = "hugo-geekdoc"
+
+pluralizeListTitles = false
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+# Needed for mermaid shortcodes
+[markup]
+    [markup.goldmark.renderer]
+        # Needed for mermaid shortcode
+        unsafe = true
+    [markup.tableOfContents]
+        startLevel = 1
+        endLevel = 9
+
+# Options
+[params]
+    geekdocLogo = "MosaicIcon.png"
+    geekdocRepo = "https://github.com/kc0bfv/wiki.notmet.net"
+    geekdocEditPath = "edit/main/content/"
