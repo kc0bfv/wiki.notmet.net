@@ -6,10 +6,7 @@
     <title>{{ if not (eq .Kind "home") }}{{ partial "title" . }} | {{ end }}{{ .Site.Title }}</title>
 
     {{ partial "head/favicons" . }}
-    {{ partial "head/rel-me" . }}
-    {{ partial "head/microformats" . }}
     {{ partial "head/others" . }}
-    {{ partial "head/schema" . }}
     {{ partial "head/custom" . }}
 </head>
 
@@ -18,7 +15,6 @@
 
     <div class="wrapper {{ if default false .Site.Params.GeekdocDarkModeDim }}dark-mode-dim{{ end }}">
         <input type="checkbox" class="hidden" id="menu-control" />
-        <input type="checkbox" class="hidden" id="menu-header-control" />
         {{ $navEnabled := default true .Page.Params.GeekdocNav }}
         {{ partial "site-header" (dict "Root" . "MenuEnabled" $navEnabled) }}
 

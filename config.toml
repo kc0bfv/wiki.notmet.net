@@ -10,6 +10,7 @@ pluralizeListTitles = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
+enableGitInfo = true
 
 # Needed for mermaid shortcodes
 [markup]
@@ -22,6 +23,7 @@ disablePathToLower = true
 
 # Options
 [params]
-    geekdocLogo = "MosaicIcon.png"
+    geekdocLogo = "puzzle.svg"
     geekdocRepo = "https://github.com/kc0bfv/wiki.notmet.net"
     geekdocEditPath = "edit/main/content/"
+    geekdocListUseTOC = true
