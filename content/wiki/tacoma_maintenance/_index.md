@@ -84,3 +84,6 @@ Oil change, engine air filter change.  Synthetic mix.
 ### Valvoline Oil Change - 237k Mi
 December 2022.  Oil change, inspection, battery "healthy" apparently.  Synthetic mix.
 
+### Sun Auto Service - 243k Mi
+
+July 2023.  Replaced alternator, replaced battery, replaced air filter and cabin air filter, cycled fluids, oil and filter replaced, replaced serpentine belt, replaced spark plugs, fuel injection service.  They said it also needs new tires and shock/struts (they're old).
