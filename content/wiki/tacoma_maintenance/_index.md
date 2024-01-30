@@ -53,6 +53,9 @@ Duralast AutoZone 24F battery, August 2019.
 ### LED Headlights and Headlight Cleanup - 247k Mi
 16 Dec 2023 - those previous ones lasted me 50k, and then only the passenger side went out.  Got headlights and cleanup kit on Amazon.
 
+### Added 3 qts oil - 250k Mi
+30 Jan 2024.
+
 ---
 
 ## Third Party Maintenance
