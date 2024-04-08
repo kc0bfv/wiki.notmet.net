@@ -97,3 +97,7 @@ July 2023.  Replaced alternator, replaced battery, replaced air filter and cabin
 ### Tire Change - 252k
 
 Discount Tire replaced all 4 tires and put one of the better tires in as spare, and replaced TPMS on all 5.  This was 23 March 2024.  Pathfinder HT 245/75 R16.  I think the front two tires hadn't been changed since 134k, and the back two since 89k...
+
+### Valvoline Oil Change - 252k Mi
+
+April 2024 oil change.
