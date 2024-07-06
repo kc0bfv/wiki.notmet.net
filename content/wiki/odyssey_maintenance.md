@@ -22,3 +22,7 @@ Jay Wolfe Honda, KC MO, did: engine oil and filter change, transmission fluid ch
 ### Tires Replaced - 52k Mi - 9 March 2024
 
 Discount Tire replaced all 4 tires.  Unfortunately one tire got destroyed somehow earlier in the day, and the Tire guys said all 4 needed replacing.
+
+### A12 - 54k Mi - 6 July 2024
+
+Oil, air filter internal and external, tires rotated.  Annual inspection.  Valvoline.
