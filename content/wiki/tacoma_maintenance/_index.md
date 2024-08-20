@@ -56,6 +56,9 @@ Duralast AutoZone 24F battery, August 2019.
 ### Added 3 qts oil - 250k Mi
 30 Jan 2024.
 
+### Added 3 qts oil - 256.6k Mi
+19 Aug 2024.
+
 ---
 
 ## Third Party Maintenance
