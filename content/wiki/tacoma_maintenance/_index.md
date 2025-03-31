@@ -59,6 +59,9 @@ Duralast AutoZone 24F battery, August 2019.
 ### Added 3 qts oil - 256.6k Mi
 19 Aug 2024.
 
+### Added 3 qts oil - 263.3k Mi
+31 Mar 2025. Changed windshield wipers.
+
 ---
 
 ## Third Party Maintenance
