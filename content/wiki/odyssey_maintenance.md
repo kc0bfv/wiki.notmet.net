@@ -8,6 +8,9 @@ This page describes the maintenance I've performed, and had performed, on my '20
 
 ## Maintenance I Completed
 
+## Feb 2026
+
+Replaced rear windshield wiper.
 
 ---
 
