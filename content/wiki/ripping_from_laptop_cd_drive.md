@@ -44,6 +44,6 @@ On the client side use SSH to forward it to your destination host.  Run `sudo mo
 
 # My CDs
 
-These rip well using `CDDA_DEVICE=/dev/cdrom cdda2mp3`.  Make a directory to rip into, cd there, then run that.
+These rip well using `CDDA_DEVICE=/dev/cdrom FILEPREFIX=cd_whatever cdda2mp3`.  Make a directory to rip into, cd there, then run that.  On Debian `cdda2mp3` is part of the `icedax` package and also needs `lame` as an encoder.
 
 Combine them together using something like ```ffmpeg -i "concat:file1.mp3|file2.mp3" -acodec copy output.mp3```.  You might generate that list of files with `for i in */*.mp3; do echo -n "$i|"; done > file` then use `cat file` instead of the filenames.
